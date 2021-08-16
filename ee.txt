@@ -1,8 +1,12 @@
 bbfdadf
 
+<<<<<<< HEAD
 new test
 
 now new test
 
 
 210816
+=======
+new test
+>>>>>>> master
